@@ -1,1 +1,1 @@
-# VendasEmpanadasWEB
+Projeto web estático de vendas de Empanadas para a Empresa: DELÍCIAS DA RAFA, desenvolvido com HTML, CSS e JavaScript, para apresentar a marca, destacar os produtos e oferecer uma experiência visual simples e atrativa para clientes.
